@@ -1,4 +1,4 @@
-# Sócrates Lopes—@socrateslopes
+# Sócrates Lopes
 Hello! I'm Socrates—a tech manager at [Nubank](https://github.com/nubank). At Nubank we are reinventing what's possible to redefine people's relationship with money. My main topics of interest are Software Architecture, Group decision-making, Agile Methods & Human Factors in Computing Systems 💻
 
 ## My values
