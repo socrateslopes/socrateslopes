@@ -10,7 +10,7 @@ At Nubank we are reinventing what's possible to redefine people's relationship w
 🤯 Open-minded
 
 ## How I work
-I strongly believe that technology can enhance our capabilities as human beings. That's why I co-authored with [Namiki](https://github.com/mynamiki) the [Software for Happiness](https://pt-br.eventials.com/Globalcode/tdc-poa-2018-stadium-sexta-4/) movement. I also consider that software development is a social process, rather than a purely technical activity, and having an agile mindset is key to achieving good results for everyone.
+I strongly believe that technology can enhance our capabilities as human beings. That's why I co-authored with [Namiki](https://github.com/mynamiki) the [Software for Happiness](https://pt-br.eventials.com/Globalcode/tdc-poa-2018-stadium-sexta-4/) manifesto. I also consider software development a social process, rather than a purely technical activity, and having an agile mindset is key to achieving good results for everyone.
 
 ## Get in touch
 - Linkedin: https://linkedin.com/in/socrateslopes
