@@ -1,5 +1,5 @@
 # Sócrates Lopes
-Hello! I'm Socrates — Tech Manager @ [Nubank](https://github.com/nubank).
+Hello! I'm Socrates — Engineering Manager @ [Nubank](https://github.com/nubank).
 
 At Nubank we are reinventing what's possible to redefine people's relationship with money. My main topics of interest are Software Architecture, Group decision-making, Agile Methods & Human Factors in Computing Systems 💻
 
