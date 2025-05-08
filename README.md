@@ -2,6 +2,7 @@
 Hello, world! 👋 
 
 Currently working as a Head of Software Engineering for Payments @ [QuintoAndar](https://github.com/quintoandar)
+
 Helping people love where they live!
 
 🥦 My main topics of interest are Software Architecture, Group decision-making, Agile Methods & Human Factors in Computing Systems 💻
